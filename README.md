@@ -1,3 +1,21 @@
+# Curso-WEB -- Aplicativo Pokemon - React
+
+Projeto de desenvolvimento Seção Acordeões - Aplicativo Pokemon - React
+
+Atividade curso Web
+
+## Tarefas
+
+O controle das tarefas desse projeto será realizado no Github
+
+## Ícones
+
+- :package: nova funcionalidade
+- :up: atualização
+- :bug: correção de bug
+- :checkered_flag: release
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
